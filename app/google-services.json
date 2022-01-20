@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7080308040",
+    "project_id": "omegle-d5d5d",
+    "storage_bucket": "omegle-d5d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7080308040:android:f6822933211a7703d2577d",
+        "android_client_info": {
+          "package_name": "com.example.omegleclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7080308040-nna8i9ksdi4j7j9g80hv961mh4tj20qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omegleclone",
+            "certificate_hash": "5bb7b677c62ba3af222d67ececd9091535cbbac5"
+          }
+        },
+        {
+          "client_id": "7080308040-0qv9d7e1d7r6d79fei878g4sn97f67q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81e1nNOUQl69vyu3rWsW16EzBNyd-XrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7080308040-0qv9d7e1d7r6d79fei878g4sn97f67q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
